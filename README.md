@@ -2,6 +2,8 @@
 
 An [Omarchy](https://omarchy.org/) theme: the **Catppuccin Latte** palette on a **vantablack** base.
 
+![Sync palette](preview.png)
+
 - Vantablack surfaces: `#000000` → `#1a1a1a`
 - Catppuccin Latte chromatic accents: blue, red, peach, yellow, green, teal, mauve, pink
 - Latte blue `#1e66f5` accent and window border
@@ -52,3 +54,7 @@ Or manually: copy this directory to `~/.config/omarchy/themes/sync/` and run
 
 Terminals, Neovim, Helix, btop, GTK, the Omarchy shell and Hyprland borders are all generated
 from `colors.toml` by Omarchy — nothing else to configure.
+
+## License
+
+[MIT](LICENSE) © 2026 pxllbt
