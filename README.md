@@ -1,5 +1,9 @@
 # Sync
 
+![Omarchy](https://img.shields.io/badge/Omarchy-4.x-1e66f5?style=flat-square)
+![Catppuccin](https://img.shields.io/badge/Catppuccin-Latte-1e66f5?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-1e66f5?style=flat-square)
+
 The [Catppuccin Latte](https://github.com/catppuccin/catppuccin) palette,
 synced onto a vantablack base.
 
