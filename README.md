@@ -1,59 +1,66 @@
 # Sync
 
-An [Omarchy](https://omarchy.org/) theme: the **Catppuccin Latte** palette on a **vantablack** base.
+The [Catppuccin Latte](https://github.com/catppuccin/catppuccin) palette,
+synced onto a vantablack base.
 
-![Sync palette](preview.png)
+Every Latte accent keeps its exact value — blue, red, peach, yellow, green,
+teal, pink, maroon — while the surfaces drop to pure black (`#000000`) and
+the text family lifts to near-white so it stays readable. The accent, the
+window border and the selection all sit on Latte blue `#1e66f5`, so the
+whole desktop agrees with itself.
 
-- Vantablack surfaces: `#000000` → `#1a1a1a`
-- Catppuccin Latte chromatic accents: blue, red, peach, yellow, green, teal, mauve, pink
-- Latte blue `#1e66f5` accent and window border
-- Soft near-white text (`#cdd6f4`) — Latte's text family is designed for light backgrounds, so the
-  foregrounds are lifted to stay readable on black while every accent keeps its exact Latte value
+![The desktop](preview.png)
 
-## Palette
+*Mock-up, not a screenshot — every element is rendered from the palette.*
 
-| Role | Color |
-| --- | --- |
-| background | `#000000` |
-| dark_background | `#090909` |
-| darker_background | `#070707` |
-| lighter_background | `#1a1a1a` |
-| foreground | `#cdd6f4` |
-| dark_foreground | `#9ca0b0` |
-| light_foreground | `#bcc0cc` |
-| bright_foreground | `#e6e9f0` |
-| accent / blue / border | `#1e66f5` |
-| red | `#d20f39` |
-| yellow | `#df8e1d` |
-| orange | `#d84e2b` |
-| green | `#40a02b` |
-| cyan | `#179299` |
-| magenta | `#ea76cb` |
-| brown | `#6c2715` |
-| muted | `#acb0be` |
-
-## Backgrounds
-
-Three generated 4K wallpapers, cycled with `omarchy theme bg next`:
-
-| File | Description |
-| --- | --- |
-| `backgrounds/ripple.png` | Concentric Latte blue / mauve / teal rings radiating on black |
-| `backgrounds/horizon.png` | Faint Latte blue horizon line on black |
-| `backgrounds/grid.png` | Dim blue dot grid on black |
+![Palette](palette-check.png)
 
 ## Install
 
 ```bash
-omarchy theme install <this-repo-url>
+omarchy theme install https://github.com/pxllbt/sync
 omarchy theme set sync
 ```
 
-Or manually: copy this directory to `~/.config/omarchy/themes/sync/` and run
-`omarchy theme set sync`.
+Or use *Install > Style > Theme* in the Omarchy menu, then pick **Sync**
+under *Style > Theme* (`Super + Ctrl + Shift + Space`).
 
-Terminals, Neovim, Helix, btop, GTK, the Omarchy shell and Hyprland borders are all generated
-from `colors.toml` by Omarchy — nothing else to configure.
+Requires Omarchy 4 — the palette uses the semantic key set.
+
+## Palette
+
+| Key | Value | |
+|-----|-------|---|
+| `background` | `#000000` | vantablack |
+| `dark_background` | `#090909` | |
+| `darker_background` | `#070707` | |
+| `lighter_background` | `#1a1a1a` | |
+| `foreground` | `#cdd6f4` | text |
+| `dark_foreground` | `#9ca0b0` | subtext |
+| `light_foreground` | `#bcc0cc` | |
+| `bright_foreground` | `#e6e9f0` | |
+| `accent` | `#1e66f5` | Latte blue |
+| `selection` | `#1e66f5` | |
+| `muted` | `#acb0be` | overlay |
+| `red` | `#d20f39` | Latte red |
+| `yellow` | `#df8e1d` | Latte yellow |
+| `orange` | `#d84e2b` | Latte peach |
+| `green` | `#40a02b` | Latte green |
+| `cyan` | `#179299` | Latte teal |
+| `blue` | `#1e66f5` | Latte blue |
+| `magenta` | `#ea76cb` | Latte pink |
+| `brown` | `#6c2715` | Latte maroon |
+
+## Backgrounds
+
+Three generated 4K wallpapers ship with the theme; cycle them with
+`omarchy theme bg next`:
+
+| File | Description |
+| --- | --- |
+| `backgrounds/ripple.png` | Concentric Latte blue / mauve / teal rings radiating on black |
+| `backgrounds/horizon.png` | A soft Latte blue horizon glow on black |
+| `backgrounds/grid.png` | A dim blue dot grid on black |
 
 ## License
 
