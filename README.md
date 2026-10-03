@@ -1,23 +1,30 @@
 # Sync
 
 ![Omarchy](https://img.shields.io/badge/Omarchy-4.x-1e66f5?style=flat-square)
-![Catppuccin](https://img.shields.io/badge/Catppuccin-Latte-1e66f5?style=flat-square)
+![Theme](https://img.shields.io/badge/Theme-Dark-1e66f5?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-1e66f5?style=flat-square)
 
-The [Catppuccin Latte](https://github.com/catppuccin/catppuccin) palette,
-synced onto a vantablack base.
+**Total black. One electric blue. Everything in sync.**
 
-Every Latte accent keeps its exact value — blue, red, peach, yellow, green,
-teal, pink, maroon — while the surfaces drop to pure black (`#000000`) and
-the text family lifts to near-white so it stays readable. The accent, the
-window border and the selection all sit on Latte blue `#1e66f5`, so the
-whole desktop agrees with itself.
+A true-black Omarchy theme: pure `#000000` surfaces, near-white text,
+and a single electric blue accent (`#1e66f5`) that runs through the
+window border, selection, and every active element — so the whole
+desktop agrees with itself. Eight accent colors cover the semantic
+roles: errors, warnings, success, links, and more.
 
 ![The desktop](preview.png)
 
 *Mock-up, not a screenshot — every element is rendered from the palette.*
 
 ![Palette](palette-check.png)
+
+## Why Sync
+
+- **Pure black base** — `#000000` with four surface depths (`#070707` → `#1a1a1a`)
+- **One accent everywhere** — border, selection, and highlights all sit on `#1e66f5`
+- **Readable on black** — four-step near-white text family
+- **Hyprland-matched** — active border uses the accent (`rgba(1e66f5ee)`)
+- **Wallpapers included** — three generated 4K backgrounds
 
 ## Install
 
@@ -33,27 +40,27 @@ Requires Omarchy 4 — the palette uses the semantic key set.
 
 ## Palette
 
-| Key | Value | |
-|-----|-------|---|
-| `background` | `#000000` | vantablack |
-| `dark_background` | `#090909` | |
-| `darker_background` | `#070707` | |
-| `lighter_background` | `#1a1a1a` | |
+| Key | Value | Role |
+| --- | ----- | ---- |
+| `background` | `#000000` | pure black |
+| `dark_background` | `#090909` | surface |
+| `darker_background` | `#070707` | deep surface |
+| `lighter_background` | `#1a1a1a` | raised surface |
 | `foreground` | `#cdd6f4` | text |
 | `dark_foreground` | `#9ca0b0` | subtext |
-| `light_foreground` | `#bcc0cc` | |
-| `bright_foreground` | `#e6e9f0` | |
-| `accent` | `#1e66f5` | Latte blue |
-| `selection` | `#1e66f5` | |
+| `light_foreground` | `#bcc0cc` | text |
+| `bright_foreground` | `#e6e9f0` | headings |
+| `accent` | `#1e66f5` | electric blue |
+| `selection` | `#1e66f5` | selection |
 | `muted` | `#acb0be` | overlay |
-| `red` | `#d20f39` | Latte red |
-| `yellow` | `#df8e1d` | Latte yellow |
-| `orange` | `#d84e2b` | Latte peach |
-| `green` | `#40a02b` | Latte green |
-| `cyan` | `#179299` | Latte teal |
-| `blue` | `#1e66f5` | Latte blue |
-| `magenta` | `#ea76cb` | Latte pink |
-| `brown` | `#6c2715` | Latte maroon |
+| `red` | `#d20f39` | coral — errors |
+| `yellow` | `#df8e1d` | amber — warnings |
+| `orange` | `#d84e2b` | peach |
+| `green` | `#40a02b` | emerald — success |
+| `cyan` | `#179299` | teal |
+| `blue` | `#1e66f5` | electric — links |
+| `magenta` | `#ea76cb` | pink |
+| `brown` | `#6c2715` | maroon |
 
 ## Backgrounds
 
@@ -62,8 +69,8 @@ Three generated 4K wallpapers ship with the theme; cycle them with
 
 | File | Description |
 | --- | --- |
-| `backgrounds/ripple.png` | Concentric Latte blue / mauve / teal rings radiating on black |
-| `backgrounds/horizon.png` | A soft Latte blue horizon glow on black |
+| `backgrounds/ripple.png` | Concentric blue / mauve / teal rings radiating on black |
+| `backgrounds/horizon.png` | A soft blue horizon glow on black |
 | `backgrounds/grid.png` | A dim blue dot grid on black |
 
 ## License
