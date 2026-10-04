@@ -14,7 +14,7 @@ roles: errors, warnings, success, links, and more.
 
 ![The desktop](preview.png)
 
-*Mock-up, not a screenshot — every element is rendered from the palette.*
+*A real screenshot — Synctax applied to a live Omarchy desktop.*
 
 ![Palette](palette-check.png)
 
