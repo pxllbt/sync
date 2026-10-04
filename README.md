@@ -1,7 +1,6 @@
 # Synctax
 
 ![Omarchy](https://img.shields.io/badge/Omarchy-4.x-1e66f5?style=flat-square)
-![Theme](https://img.shields.io/badge/Theme-Dark-1e66f5?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-1e66f5?style=flat-square)
 
 **Total black. One electric blue. Everything in sync.**
@@ -18,7 +17,7 @@ roles: errors, warnings, success, links, and more.
 
 ![Palette](palette-check.png)
 
-## Why Sync
+## Why Synctax
 
 - **Pure black base** — `#000000` with four surface depths (`#070707` → `#1a1a1a`)
 - **One accent everywhere** — border, selection, and highlights all sit on `#1e66f5`
@@ -29,11 +28,11 @@ roles: errors, warnings, success, links, and more.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/pxllbt/sync
-omarchy theme set sync
+omarchy theme install https://github.com/pxllbt/synctax
+omarchy theme set synctax
 ```
 
-Or use *Install > Style > Theme* in the Omarchy menu, then pick **Sync**
+Or use *Install > Style > Theme* in the Omarchy menu, then pick **Synctax**
 under *Style > Theme* (`Super + Ctrl + Shift + Space`).
 
 Requires Omarchy 4 — the palette uses the semantic key set.
@@ -75,4 +74,4 @@ Three generated 4K wallpapers ship with the theme; cycle them with
 
 ## License
 
-[MIT](LICENSE) © 2026 pxllbt
+MIT — see [LICENSE](LICENSE).
