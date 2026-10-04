@@ -1,4 +1,4 @@
-# Sync
+# Synctax
 
 ![Omarchy](https://img.shields.io/badge/Omarchy-4.x-1e66f5?style=flat-square)
 ![Theme](https://img.shields.io/badge/Theme-Dark-1e66f5?style=flat-square)
