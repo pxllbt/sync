@@ -6,7 +6,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/pxllbt/synctax?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/pulls)
 
-> **pxllbt's Synctax — a true-black Omarchy theme with one electric blue accent and 4K wallpapers (Hyprland / Wayland)**
+> **pxllbt's Synctax — a true-black Omarchy theme with one electric blue accent**
 
 [Preview](#preview) · [Install](#install) · [Palette](#palette) · [Backgrounds](#background) · [License](#license)
 
