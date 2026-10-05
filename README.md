@@ -22,8 +22,6 @@ roles: errors, warnings, success, links, and more.
 
 ![Synctax desktop preview](preview.png)
 
-*A real screenshot — Synctax applied to a live Omarchy desktop.*
-
 ![Palette reference](palette-check.png)
 
 ## Why Synctax
