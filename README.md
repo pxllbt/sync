@@ -10,7 +10,8 @@
 
 [Preview](#preview) · [Install](#install) · [Palette](#palette) · [Backgrounds](#background) · [License](#license)
 
-A true-black Omarchy theme. `#000000` surfaces, near-white text, and a single
+A personal Omarchy theme built on a vantablack base with a carefully
+adapted pastel palette. `#000000` surfaces, near-white text, and a single
 electric blue accent (`#1e66f5`) across the window border, selection, and
 active elements. Eight semantic accent colors cover errors, warnings,
 success, links, and more.
