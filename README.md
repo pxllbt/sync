@@ -1,7 +1,14 @@
-# Synctax
+# Synctax — a theme by [pxllbt](https://github.com/pxllbt)
 
-![Omarchy](https://img.shields.io/badge/Omarchy-4.x-1e66f5?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-1e66f5?style=flat-square)
+[![Omarchy Theme](https://img.shields.io/badge/Omarchy%20Theme-4.x-blue?style=flat-square&labelColor=000000&color=1e66f5)](https://omarchy.org/themes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square&labelColor=000000&color=1e66f5)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/pxllbt/synctax?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/stars)
+[![GitHub Release](https://img.shields.io/github/v/release/pxllbt/synctax?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/pulls)
+
+> **Pure black · Electric blue · 4K wallpapers · Hyprland & Wayland**
+
+[Preview](#preview) • [Install](#install) • [Palette](#palette) • [Wallpapers](#backgrounds) • [License](#license)
 
 **Total black. One electric blue. Everything in sync.**
 
@@ -11,11 +18,13 @@ window border, selection, and every active element — so the whole
 desktop agrees with itself. Eight accent colors cover the semantic
 roles: errors, warnings, success, links, and more.
 
-![The desktop](preview.png)
+## Preview
+
+![Synctax desktop preview](preview.png)
 
 *A real screenshot — Synctax applied to a live Omarchy desktop.*
 
-![Palette](palette-check.png)
+![Palette reference](palette-check.png)
 
 ## Why Synctax
 
@@ -61,7 +70,7 @@ Requires Omarchy 4 — the palette uses the semantic key set.
 | `magenta` | `#ea76cb` | pink |
 | `brown` | `#6c2715` | maroon |
 
-## Backgrounds
+## Background
 
 Three generated 4K wallpapers ship with the theme; cycle them with
 `omarchy theme bg next`:
@@ -75,3 +84,7 @@ Three generated 4K wallpapers ship with the theme; cycle them with
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+Made with <3 by [pxllbt](https://github.com/pxllbt). Part of the [Omarchy](https://omarchy.org) community themes.
