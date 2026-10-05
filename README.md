@@ -8,7 +8,7 @@
 
 > **pxllbt's Synctax — a true-black Omarchy theme with one electric blue accent**
 
-[Preview](#preview) · [Install](#install) · [Backgrounds](#background) · [License](#license)
+[Preview](#preview) · [Install](#install) · [License](#license)
 
 A personal Omarchy theme built on a pitch-black foundation with a carefully
 adapted pastel palette. `#000000` surfaces, near-white text, and a single
@@ -33,16 +33,6 @@ Or use *Install > Style > Theme* in the Omarchy menu, then select **Synctax**
 under *Style > Theme* (`Super + Ctrl + Shift + Space`).
 
 Requires Omarchy 4 for semantic palette support.
-
-## Background
-
-Three wallpapers ship with the theme. Cycle them with `omarchy theme bg next`:
-
-| File | Resolution | Description |
-| --- | --- | --- |
-| `backgrounds/gradient.jpg` | 5640×2400 | Dark blue gradient field, deep navy to light blue |
-| `backgrounds/void.png` | 1920×1080 | Near-black background with subtle gray accents |
-| `backgrounds/nebula.png` | 1920×1080 | Deep blue gradient with lighter blue highlights |
 
 ## License
 
