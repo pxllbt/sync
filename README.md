@@ -46,25 +46,25 @@ Requires Omarchy 4 for semantic palette support.
 
 | Key | Color | Value | Role |
 | --- | :---: | ----- | ---- |
-| `background` | <span style="background:#000000;width:20px;height:20px;border-radius:3px;"></span> | `#000000` | pure black |
-| `dark_background` | <span style="background:#090909;width:20px;height:20px;border-radius:3px;"></span> | `#090909` | surface |
-| `darker_background` | <span style="background:#070707;width:20px;height:20px;border-radius:3px;"></span> | `#070707` | deep surface |
-| `lighter_background` | <span style="background:#1a1a1a;width:20px;height:20px;border-radius:3px;"></span> | `#1a1a1a` | raised surface |
-| `foreground` | <span style="background:#cdd6f4;width:20px;height:20px;border-radius:3px;"></span> | `#cdd6f4` | text |
-| `dark_foreground` | <span style="background:#9ca0b0;width:20px;height:20px;border-radius:3px;"></span> | `#9ca0b0` | subtext |
-| `light_foreground` | <span style="background:#bcc0cc;width:20px;height:20px;border-radius:3px;"></span> | `#bcc0cc` | text |
-| `bright_foreground` | <span style="background:#e6e9f0;width:20px;height:20px;border-radius:3px;"></span> | `#e6e9f0` | headings |
-| `accent` | <span style="background:#1e66f5;width:20px;height:20px;border-radius:3px;"></span> | `#1e66f5` | electric blue |
-| `selection` | <span style="background:#1e66f5;width:20px;height:20px;border-radius:3px;"></span> | `#1e66f5` | selection |
-| `muted` | <span style="background:#acb0be;width:20px;height:20px;border-radius:3px;"></span> | `#acb0be` | overlay |
-| `red` | <span style="background:#d20f39;width:20px;height:20px;border-radius:3px;"></span> | `#d20f39` | coral — errors |
-| `yellow` | <span style="background:#df8e1d;width:20px;height:20px;border-radius:3px;"></span> | `#df8e1d` | amber — warnings |
-| `orange` | <span style="background:#d84e2b;width:20px;height:20px;border-radius:3px;"></span> | `#d84e2b` | peach |
-| `green` | <span style="background:#40a02b;width:20px;height:20px;border-radius:3px;"></span> | `#40a02b` | emerald — success |
-| `cyan` | <span style="background:#179299;width:20px;height:20px;border-radius:3px;"></span> | `#179299` | teal |
-| `blue` | <span style="background:#1e66f5;width:20px;height:20px;border-radius:3px;"></span> | `#1e66f5` | electric — links |
-| `magenta` | <span style="background:#ea76cb;width:20px;height:20px;border-radius:3px;"></span> | `#ea76cb` | pink |
-| `brown` | <span style="background:#6c2715;width:20px;height:20px;border-radius:3px;"></span> | `#6c2715` | maroon |
+| `background` | ![ ](https://placehold.co/18x18/000000) | `#000000` | pure black |
+| `dark_background` | ![ ](https://placehold.co/18x18/090909) | `#090909` | surface |
+| `darker_background` | ![ ](https://placehold.co/18x18/070707) | `#070707` | deep surface |
+| `lighter_background` | ![ ](https://placehold.co/18x18/1a1a1a) | `#1a1a1a` | raised surface |
+| `foreground` | ![ ](https://placehold.co/18x18/cdd6f4) | `#cdd6f4` | text |
+| `dark_foreground` | ![ ](https://placehold.co/18x18/9ca0b0) | `#9ca0b0` | subtext |
+| `light_foreground` | ![ ](https://placehold.co/18x18/bcc0cc) | `#bcc0cc` | text |
+| `bright_foreground` | ![ ](https://placehold.co/18x18/e6e9f0) | `#e6e9f0` | headings |
+| `accent` | ![ ](https://placehold.co/18x18/1e66f5) | `#1e66f5` | electric blue |
+| `selection` | ![ ](https://placehold.co/18x18/1e66f5) | `#1e66f5` | selection |
+| `muted` | ![ ](https://placehold.co/18x18/acb0be) | `#acb0be` | overlay |
+| `red` | ![ ](https://placehold.co/18x18/d20f39) | `#d20f39` | coral — errors |
+| `yellow` | ![ ](https://placehold.co/18x18/df8e1d) | `#df8e1d` | amber — warnings |
+| `orange` | ![ ](https://placehold.co/18x18/d84e2b) | `#d84e2b` | peach |
+| `green` | ![ ](https://placehold.co/18x18/40a02b) | `#40a02b` | emerald — success |
+| `cyan` | ![ ](https://placehold.co/18x18/179299) | `#179299` | teal |
+| `blue` | ![ ](https://placehold.co/18x18/1e66f5) | `#1e66f5` | electric — links |
+| `magenta` | ![ ](https://placehold.co/18x18/ea76cb) | `#ea76cb` | pink |
+| `brown` | ![ ](https://placehold.co/18x18/6c2715) | `#6c2715` | maroon |
 
 ## Wallpapers
 
