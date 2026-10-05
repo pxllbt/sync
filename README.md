@@ -6,7 +6,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/pxllbt/synctax?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green?style=flat-square&labelColor=000000&color=1e66f5)](https://github.com/pxllbt/synctax/pulls)
 
-> **Pure black · Electric blue · 4K wallpapers · Hyprland & Wayland**
+> **Pure black · Electric blue · Wallpapers · Hyprland & Wayland**
 
 [Preview](#preview) • [Install](#install) • [Palette](#palette) • [Wallpapers](#backgrounds) • [License](#license)
 
@@ -30,7 +30,7 @@ roles: errors, warnings, success, links, and more.
 - **One accent everywhere** — border, selection, and highlights all sit on `#1e66f5`
 - **Readable on black** — four-step near-white text family
 - **Hyprland-matched** — active border uses the accent (`rgba(1e66f5ee)`)
-- **Wallpapers included** — three generated 4K backgrounds
+- **Wallpapers included** — three backgrounds
 
 ## Install
 
@@ -70,14 +70,14 @@ Requires Omarchy 4 — the palette uses the semantic key set.
 
 ## Background
 
-Three generated 4K wallpapers ship with the theme; cycle them with
+Three wallpapers ship with the theme; cycle them with
 `omarchy theme bg next`:
 
-| File | Description |
-| --- | --- |
-| `backgrounds/ripple.png` | Concentric blue / mauve / teal rings radiating on black |
-| `backgrounds/horizon.png` | A soft blue horizon glow on black |
-| `backgrounds/grid.png` | A dim blue dot grid on black |
+| File | Resolution | Description |
+| --- | --- | --- |
+| `backgrounds/wallhaven-e8vvx8.jpg` | 5640×2400 | Wallpaper |
+| `backgrounds/wallhaven-lygzqq_1920x1080.png` | 1920×1080 | Wallpaper |
+| `backgrounds/wallhaven-yqkgm7_1920x1080.png` | 1920×1080 | Wallpaper |
 
 ## License
 
