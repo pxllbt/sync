@@ -8,29 +8,18 @@
 
 > **Pure black · Electric blue · Wallpapers · Hyprland & Wayland**
 
-[Preview](#preview) • [Install](#install) • [Palette](#palette) • [Wallpapers](#backgrounds) • [License](#license)
+[Preview](#preview) · [Install](#install) · [Palette](#palette) · [Backgrounds](#background) · [License](#license)
 
-**Total black. One electric blue. Everything in sync.**
-
-A true-black Omarchy theme: pure `#000000` surfaces, near-white text,
-and a single electric blue accent (`#1e66f5`) that runs through the
-window border, selection, and every active element — so the whole
-desktop agrees with itself. Eight accent colors cover the semantic
-roles: errors, warnings, success, links, and more.
+A true-black Omarchy theme. `#000000` surfaces, near-white text, and a single
+electric blue accent (`#1e66f5`) across the window border, selection, and
+active elements. Eight semantic accent colors cover errors, warnings,
+success, links, and more.
 
 ## Preview
 
 ![Synctax desktop preview](preview.png)
 
 ![Palette reference](palette-check.png)
-
-## Why Synctax
-
-- **Pure black base** — `#000000` with four surface depths (`#070707` → `#1a1a1a`)
-- **One accent everywhere** — border, selection, and highlights all sit on `#1e66f5`
-- **Readable on black** — four-step near-white text family
-- **Hyprland-matched** — active border uses the accent (`rgba(1e66f5ee)`)
-- **Wallpapers included** — three backgrounds
 
 ## Install
 
@@ -39,10 +28,10 @@ omarchy theme install https://github.com/pxllbt/synctax
 omarchy theme set synctax
 ```
 
-Or use *Install > Style > Theme* in the Omarchy menu, then pick **Synctax**
+Or use *Install > Style > Theme* in the Omarchy menu, then select **Synctax**
 under *Style > Theme* (`Super + Ctrl + Shift + Space`).
 
-Requires Omarchy 4 — the palette uses the semantic key set.
+Requires Omarchy 4 for semantic palette support.
 
 ## Palette
 
@@ -70,14 +59,13 @@ Requires Omarchy 4 — the palette uses the semantic key set.
 
 ## Background
 
-Three wallpapers ship with the theme; cycle them with
-`omarchy theme bg next`:
+Three wallpapers ship with the theme. Cycle them with `omarchy theme bg next`:
 
 | File | Resolution | Description |
 | --- | --- | --- |
-| `backgrounds/wallhaven-e8vvx8.jpg` | 5640×2400 | Wallpaper |
-| `backgrounds/wallhaven-lygzqq_1920x1080.png` | 1920×1080 | Wallpaper |
-| `backgrounds/wallhaven-yqkgm7_1920x1080.png` | 1920×1080 | Wallpaper |
+| `backgrounds/gradient.jpg` | 5640×2400 | Dark blue gradient field, deep navy to light blue |
+| `backgrounds/void.png` | 1920×1080 | Near-black background with subtle gray accents |
+| `backgrounds/nebula.png` | 1920×1080 | Deep blue gradient with lighter blue highlights |
 
 ## License
 
@@ -85,4 +73,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Made with <3 by [pxllbt](https://github.com/pxllbt). Part of the [Omarchy](https://omarchy.org) community themes.
+By [pxllbt](https://github.com/pxllbt). Part of the [Omarchy](https://omarchy.org) community themes.
