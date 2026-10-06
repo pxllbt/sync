@@ -8,7 +8,7 @@
 
 [Preview](#preview) · [Features](#features) · [Install](#install) · [Palette](#palette) · [Wallpapers](#wallpapers) · [License](#license)
 
-A personal Omarchy theme built on a pitch-black foundation with a carefully
+My personal Omarchy theme built on a pitch-black foundation with a carefully
 adapted pastel palette. `#000000` surfaces, near-white text, and a single
 electric blue accent (`#1e66f5`) across the window border, selection, and
 active elements. Eight semantic accent colors cover errors, warnings,
